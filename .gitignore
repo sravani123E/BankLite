@@ -1,0 +1,13 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# JSON data
+bank.json
+
+# Environment files
+.env
+*.env
+
+# VSCode settings
+.vscode/
